@@ -1,0 +1,102 @@
+#---------------------------------------------------------------------
+# FILE NAME:    CathDomainDescriptionFile.v4.3.0
+# FILE DATE:    11.09.2019
+#
+# CATH VERSION: v4.3.0
+# VERSION DATE: 11.09.2019
+#
+# FILE FORMAT:  Cath Domain Description File (CDDF) Format 2.0
+#
+# FILE DESCRIPTION:
+# Contains a description of each protein domain in CATH (classes 1-4).
+#
+# This includes the overall PDB name and source information (from PDB file),
+# CATH superfamily number, CATH name of class, architecture and topology
+# (CATH homologous superfamily name is only included if it has been defined).
+# Also included is domain and segment information such as length, amino acid
+# sequence and domain boundary PDB residue identifiers.
+#
+# See 'README.file_formats' for file format information
+#---------------------------------------------------------------------
+FORMAT    CDDF1.0
+DOMAIN    1oaiA00
+VERSION   4.3.0
+VERDATE   11-Sep-2019
+NAME      Nuclear RNA export factor. Chain: a. Fragment: uba domain, residues 56
+NAME      1-619. Synonym: tap, tip associating protein, mRNA export factor tap. 
+NAME      Engineered: yes. Fxfg nucleoporin peptide. Chain: b. Fragment: nucleop
+NAME      orin peptide, residues 10-18. Engineered: yes
+SOURCE    Homo sapiens. Human. Organism_taxid: 9606.  Expressed in: escherichia 
+SOURCE    coli. Expression_system_taxid: 562.
+CATHCODE  1.10.8.10
+CLASS     Mainly Alpha
+ARCH      Orthogonal Bundle
+TOPOL     Helicase, Ruva Protein; domain 3
+HOMOL     DNA helicase RuvA subunit, C-terminal domain
+DLENGTH   59
+DSEQH     >pdb|1oaiA00
+DSEQS     PTLSPEQQEMLQAFSTQSGMNLEWSQKCLQDNNWDYTRSAQAFTHLKAKGEIPEVAFMK
+NSEGMENTS 1
+SEGMENT   1oaiA00:1:1
+SRANGE    START=561  STOP=619
+SLENGTH   59
+SSEQH     >pdb|1oaiA00:1:1
+SSEQS     PTLSPEQQEMLQAFSTQSGMNLEWSQKCLQDNNWDYTRSAQAFTHLKAKGEIPEVAFMK
+ENDSEG
+//
+FORMAT    CDDF1.0
+DOMAIN    101mA00
+VERSION   4.3.0
+VERDATE   11-Sep-2019
+NAME      Myoglobin. Chain: a. Engineered: yes. Mutation: yes
+SOURCE    Physeter catodon. Sperm whale. Organism_taxid: 9755. Organ: skeletal. 
+SOURCE    Tissue: skeletal muscle. Cellular_location: cytoplasm.  Expressed in: 
+SOURCE    escherichia coli. Expression_system_taxid: 562.
+CATHCODE  1.10.490.10
+CLASS     Mainly Alpha
+ARCH      Orthogonal Bundle
+TOPOL     Globin-like
+HOMOL     Globins
+DLENGTH   154
+DSEQH     >pdb|101mA00
+DSEQS     MVLSEGEWQLVLHVWAKVEADVAGHGQDILIRLFKSHPETLEKFDRVKHLKTEAEMKASEDLKKHGVTVL
+DSEQS     TALGAILKKKGHHEAELKPLAQSHATKHKIPIKYLEFISEAIIHVLHSRHPGNFGADAQGAMNKALELFR
+DSEQS     KDIAAKYKELGYQG
+NSEGMENTS 1
+SEGMENT   101mA00:1:1
+SRANGE    START=0  STOP=153
+SLENGTH   154
+SSEQH     >pdb|101mA00:1:1
+SSEQS     MVLSEGEWQLVLHVWAKVEADVAGHGQDILIRLFKSHPETLEKFDRVKHLKTEAEMKASEDLKKHGVTVL
+SSEQS     TALGAILKKKGHHEAELKPLAQSHATKHKIPIKYLEFISEAIIHVLHSRHPGNFGADAQGAMNKALELFR
+SSEQS     KDIAAKYKELGYQG
+ENDSEG
+//
+FORMAT    CDDF1.0
+DOMAIN    102lA00
+VERSION   4.3.0
+VERDATE   11-Sep-2019
+NAME      T4 lysozyme. Chain: a. Engineered: yes
+SOURCE    Enterobacteria phage t4. Organism_taxid: 10665. Expression_system_vect
+SOURCE    or_type: plasmid.
+CATHCODE  1.10.530.40
+CLASS     Mainly Alpha
+ARCH      Orthogonal Bundle
+TOPOL     Lysozyme
+HOMOL     Lysozyme
+DLENGTH   163
+DSEQH     >pdb|102lA00
+DSEQS     MNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAAKSELDKAIGRNTNGVITKDEAEKLFNQ
+DSEQS     DVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWY
+DSEQS     NQTPNRAKRVITTFRTGTWDAYK
+NSEGMENTS 1
+SEGMENT   102lA00:1:1
+SRANGE    START=1  STOP=162
+SLENGTH   163
+SSEQH     >pdb|102lA00:1:1
+SSEQS     MNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAAKSELDKAIGRNTNGVITKDEAEKLFNQ
+SSEQS     DVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWY
+SSEQS     NQTPNRAKRVITTFRTGTWDAYK
+ENDSEG
+//
+
