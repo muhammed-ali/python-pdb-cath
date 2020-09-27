@@ -1,0 +1,13 @@
+_processing_date: 11-Sep-2019
+Organism_taxid: 9755
+organism_name: Physeter catodon. Sperm whale. 
+CLASS: Mainly Alpha
+ARCH: Orthogonal Bundle
+TOPOL: Globin-like
+HOMOL: Globins
+_start: 0
+_stop: 153
+data_source_id: PDB
+description: PDB:101M_A mol:protein length:154  MYOGLOBIN
+sequence_id: PDB:101M_A
+original_sequence: MVLSEGEWQLVLHVWAKVEADVAGHGQDILIRLFKSHPETLEKFDRVKHLKTEAEMKASEDLKKHGVTVLTALGAILKKKGHHEAELKPLAQSHATKHKIPIKYLEFISEAIIHVLHSRHPGNFGADAQGAMNKALELFRKDIAAKYKELGYQG
