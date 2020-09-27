@@ -1,0 +1,13 @@
+_processing_date: 11-Sep-2019
+Organism_taxid: 10665
+organism_name: Enterobacteria phage t4. 
+CLASS: Mainly Alpha
+ARCH: Orthogonal Bundle
+TOPOL: Lysozyme
+HOMOL: Lysozyme
+_start: 1
+_stop: 162
+data_source_id: PDB
+description: PDB:102L_A mol:protein length:165  T4 LYSOZYME
+sequence_id: PDB:102L_A
+original_sequence: MNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYK
